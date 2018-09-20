@@ -1,6 +1,13 @@
 # String builder
+[![Build Status](https://travis-ci.org/Greg0/string-builder.svg?branch=master)](https://travis-ci.org/Greg0/string-builder)
+[![Current Version](https://img.shields.io/packagist/v/greg0/string-builder.svg)](https://packagist.org/packages/greg0/string-builder#latest)
+![PHP Version](https://img.shields.io/packagist/php-v/greg0/string-builder.svg)
 
 Simple PHP string builder inspired by C# [StringBuilder](https://docs.microsoft.com/pl-pl/dotnet/api/system.text.stringbuilder)
+
+## Install
+
+`composer require greg0/string-builder`
 
 ## Sample usages
 
